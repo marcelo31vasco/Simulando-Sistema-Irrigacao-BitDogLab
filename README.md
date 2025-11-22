@@ -48,7 +48,12 @@ O projeto utiliza as seguintes bibliotecas e componentes:
   - Joystick
   - Botões
   - Módulo Wi-Fi (integrado na Raspberry Pi Pico W)
+ 
+  - <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/01a703ab-7d0a-40fd-b26b-92ad11c5e5c4" />
 
+  https://youtube.com/shorts/oz_H7yAK99s?si=c4itPLTUakSMN2zK
+
+  
 - **Software**:
   - Ambiente de desenvolvimento para C/C++
   - Bibliotecas necessárias (disponíveis no repositório)
