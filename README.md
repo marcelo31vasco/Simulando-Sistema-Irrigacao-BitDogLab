@@ -58,9 +58,7 @@ O projeto utiliza as seguintes bibliotecas e componentes:
   - Ambiente de desenvolvimento para C/C++
   - Bibliotecas necessárias (disponíveis no repositório)
 
-## Instalação
+## Certificado de Conclusão do Curso - IFRN
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/irrig-smart.git
-   cd irrig-smart
+<img width="1045" height="741" alt="image" src="https://github.com/user-attachments/assets/ca82e433-1b5c-4dcb-8eef-62fc238cfce9" />
+
